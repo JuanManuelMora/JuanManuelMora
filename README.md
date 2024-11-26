@@ -8,7 +8,7 @@ Actualmente cursando octavo semestre en el Tecnológico de Antioquia.
 
 ## 🚀 Sobre mí
 - 📚 Apasionado por el desarrollo de software con enfoque en **redes** y **bases de datos**.
-- 🔑 Dominio de **Java** y en proceso de aprendizaje de **Inglés A1** en Smart Language Academy.
+- 🔑 Dominio de **Java** y en proceso de aprendizaje de **Inglés A2** en Smart Language Academy.
 - 🌟 Siempre buscando mejorar mis habilidades y expandir mi conocimiento.
 
 ---
