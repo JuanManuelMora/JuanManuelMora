@@ -1,30 +1,50 @@
 # 👋 Hola, soy Juan Manuel Morales
 
 ### 📍 Medellín, Antioquia  
-🎓 **Estudiante de Ingeniería de Software**  
-Actualmente cursando octavo semestre en el Tecnológico de Antioquia.
+🎓 **Estudiante de Ingeniería de Software** y **Practicante de Bancolombia**  
+Actualmente cursando decimo semestre en el Tecnológico de Antioquia.
 
 ---
 
 ## 🚀 Sobre mí
-- 📚 Apasionado por el desarrollo de software con enfoque en **redes** y **bases de datos**.
-- 🔑 Dominio de **Java** y en proceso de aprendizaje de **Inglés A2** en Smart Language Academy.
+- 📚 Apasionado por el desarrollo de software con enfoque en **Low Code** y **Bases de datos**.
+- 🔑 Aprendizaje en **Java** y en **Inglés A2** en Smart Language Academy.
+- 💻 Dominio de **Power Platform**, mayormente en **Power Apps** y **Power Automate**
 - 🌟 Siempre buscando mejorar mis habilidades y expandir mi conocimiento.
 
 ---
 
 ## 🛠️ Habilidades
 - **Lenguajes**:
-  - Java (Certificado en Código Facilito con 6h 2m de duración)
+  - Java
+  - Low Code (Power Apps)
+  - Python
   - Español (Nativo)
   - Inglés (Nivel A2, elemental en progreso)
-- **Conocimientos**: Redes, conexiones de bases de datos, y desarrollo en Java.
+
+- **Conocimientos**: 
+  - SQL
+  - Power Apps
+  - Power Automate
+  - SharePoint (Integrado con Power Platform)
+  - OneDrive (Integrado con Power Platform)
+  - Godot
+  - Herramientas Ofimáticas
+  - Máquinas Virtuales
+  - Sistema operativo Windows
+  - Sistema operativo Kali Linux
+  - Sistema operativo Ubuntu
+  - Herramientas IA
+  - Python
+  - PostgreSQL
+  - Frameworks (Django)
+  - Java
 
 ---
 
 ## 📜 Formación Académica
 - **2019**: Bachiller, Colegio Panamericano Colombo-Sueco.
-- **2023**: Ingeniería de Software, Tecnológico de Antioquia (8vo semestre).
+- **2024**: Ingeniería de Software, Tecnológico de Antioquia (10mo semestre).
 
 ---
 
