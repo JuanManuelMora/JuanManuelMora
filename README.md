@@ -39,7 +39,7 @@ Actualmente cursando octavo semestre en el Tecnológico de Antioquia.
   - Academia de Idiomas Smart.
   - Certificación emitida en abril de 2024.
 
-    ![Certuficado de Inglés](Certificados/Smart%20A1.pdf)
+    ![Certificado de Inglés](Certificados/Smart%20A1.pdf)
 
 ---
 
