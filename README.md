@@ -17,7 +17,7 @@ Actualmente cursando octavo semestre en el Tecnológico de Antioquia.
 - **Lenguajes**:
   - Java (Certificado en Código Facilito con 6h 2m de duración)
   - Español (Nativo)
-  - Inglés (Nivel A1, elemental en progreso)
+  - Inglés (Nivel A2, elemental en progreso)
 - **Conocimientos**: Redes, conexiones de bases de datos, y desarrollo en Java.
 
 ---
@@ -32,15 +32,20 @@ Actualmente cursando octavo semestre en el Tecnológico de Antioquia.
 - **Curso Profesional de Java**:
   - Emitido por Código Facilito.
   - Código de certificación: `d6d49c5e-19d9-43e6-8731-7972b7851844`.
+
+    ![Certificado de Java](Certificados/Certificado%20-%20Curso%20Profesional%20de%20JAVA.pdf)
+
 - **Nivel A1 de Inglés**:
   - Academia de Idiomas Smart.
   - Certificación emitida en abril de 2024.
+
+    ![Certuficado de Inglés](Certificados/Smart%20A1.pdf)
 
 ---
 
 ## 📬 Contáctame
 📧 Email: juanmanuelmorales668@gmail.com  
-📞 Teléfono: 315 5411009
+📞 Teléfono: 300 231 2763
 
 ---
 
