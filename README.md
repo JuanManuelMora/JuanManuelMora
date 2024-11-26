@@ -69,4 +69,9 @@ Actualmente cursando decimo semestre en el Tecnológico de Antioquia.
 
 ---
 
+## 🖥 Repositorios...
+https://github.com/JuanManuelMora?tab=repositories
+
+---
+
 *¡Gracias por visitar mi perfil! Estoy emocionado por colaborar en proyectos y aprender continuamente en el ámbito del desarrollo de software.*
