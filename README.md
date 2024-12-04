@@ -10,7 +10,7 @@ Actualmente cursando decimo semestre en el Tecnológico de Antioquia.
 - 📚 Apasionado por el desarrollo de software con enfoque en **Low Code** y **Bases de datos**.
 - 🔑 Aprendizaje en **Java** y en **Inglés A2** en Smart Language Academy.
 - 💻 Dominio de **Power Platform**, mayormente en **Power Apps** y **Power Automate**
-- 🌟 Siempre buscando mejorar mis habilidades y expandir mi conocimiento.
+- 🌟 Siempre buscando mejorar mis habilidades y expandir mi conocimientooo.
 
 ---
 
