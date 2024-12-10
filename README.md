@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Juan Manuel Morales
 
-[English](en/README_en.md)
+[English](/README_en.md)
 
 </div>
 
