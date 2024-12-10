@@ -8,9 +8,8 @@
 
 ### 📍 Medellín, Antioquia  
 🎓 **Estudiante de Ingeniería de Software** y **Practicante de Bancolombia**  
-Actualmente cursando decimo semestre en el Tecnológico de Antioquia.
+Actualmente a la espera de la seremonia de grados en el Tecnológico de Antioquia.
 
----
 
 ## 🚀 Sobre mí
 - 📚 Apasionado por el desarrollo de software con enfoque en **Low Code** y **Bases de datos**.
