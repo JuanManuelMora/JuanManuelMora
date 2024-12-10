@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, soy Juan Manuel Morales
+# 👋 Hi, I'm Juan Manuel Morales
 
 [Spanish](es/README.md)
 
@@ -66,6 +66,7 @@ Currently awaiting graduation ceremony at the Tecnológico de Antioquia.
 
 ## 📬 Contact me
 📧 Email: juanmanuelmorales668@gmail.com
+
 📞 Phone: 300 231 2763
 
 
