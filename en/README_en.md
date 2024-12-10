@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Juan Manuel Morales
 
-[Spanish](/README.md)
+[Español](/README.md)
 
 </div>
 
@@ -55,13 +55,13 @@ Currently awaiting graduation ceremony at the Tecnológico de Antioquia.
     - Issued by Código Facilito.
     - Certification code:`d6d49c5e-19d9-43e6-8731-7972b7851844`.
 
-        📜[Java Certificate](es/Certificados/Certificado%20-%20Curso%20Profesional%20de%20JAVA.pdf)
+        📜[Java Certificate](/Certificados/Certificado%20-%20Curso%20Profesional%20de%20JAVA.pdf)
 
 - **Level A1 of English**:
     - Smart Language Academy.
     - Certification issued in April 2024.
 
-        📜[English Certificate](es/Certificados/Smart%20A1.pdf)
+        📜[English Certificate](/Certificados/Smart%20A1.pdf)
 
 
 ## 📬 Contact me
