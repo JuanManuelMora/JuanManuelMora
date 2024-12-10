@@ -6,7 +6,7 @@
 
 </div>
 
-### 📍 Medellín, Antioquia  
+## 📍 Medellín, Antioquia  
 🎓 **Estudiante de Ingeniería de Software** y **Practicante de Bancolombia**  
 Actualmente a la espera de la seremonia de grados en el Tecnológico de Antioquia.
 
@@ -17,7 +17,6 @@ Actualmente a la espera de la seremonia de grados en el Tecnológico de Antioqui
 - 💻 Dominio de **Power Platform**, mayormente en **Power Apps** y **Power Automate**
 - 🌟 Siempre buscando mejorar mis habilidades y expandir mi conocimiento.
 
----
 
 ## 🛠️ Habilidades
 - **Lenguajes**:
@@ -45,38 +44,33 @@ Actualmente a la espera de la seremonia de grados en el Tecnológico de Antioqui
   - Frameworks (Django)
   - Java
 
----
 
 ## 📜 Formación Académica
 - **2019**: Bachiller, Colegio Panamericano Colombo-Sueco.
 - **2024**: Ingeniería de Software, Tecnológico de Antioquia (10mo semestre).
 
----
 
 ## 📝 Certificaciones
 - **Curso Profesional de Java**:
   - Emitido por Código Facilito.
   - Código de certificación: `d6d49c5e-19d9-43e6-8731-7972b7851844`.
 
-    ![Certificado de Java](Certificados/Certificado%20-%20Curso%20Profesional%20de%20JAVA.pdf)
+    📜[Certificado de Java](es/Certificados/Certificado%20-%20Curso%20Profesional%20de%20JAVA.pdf)
 
 - **Nivel A1 de Inglés**:
   - Academia de Idiomas Smart.
   - Certificación emitida en abril de 2024.
 
-    ![Certificado de Inglés](Certificados/Smart%20A1.pdf)
+    📜[Certificado de Inglés](es/Certificados/Smart%20A1.pdf)
 
----
 
 ## 📬 Contáctame
 📧 Email: juanmanuelmorales668@gmail.com  
 📞 Teléfono: 300 231 2763
 
----
 
 ## 🖥 Repositorios...
 https://github.com/JuanManuelMora?tab=repositories
 
----
 
 *¡Gracias por visitar mi perfil! Estoy emocionado por colaborar en proyectos y aprender continuamente en el ámbito del desarrollo de software.*
