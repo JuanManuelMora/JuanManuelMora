@@ -8,7 +8,7 @@
 
 ## 📍 Medellín, Antioquia  
 🎓 **Estudiante de Ingeniería de Software** y **Practicante de Bancolombia**  
-Actualmente a la espera de la seremonia de grados en el Tecnológico de Antioquia.
+Actualmente a la espera de la ceremonia de grados en el Tecnológico de Antioquia.
 
 
 ## 🚀 Sobre mí
