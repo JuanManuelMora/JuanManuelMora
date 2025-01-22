@@ -72,7 +72,6 @@ Currently awaiting graduation ceremony at the Tecnológico de Antioquia.
 
 ## 📬 Contact me
 📧 Email: juanmanuelmorales668@gmail.com
-
 📞 Phone: 300 231 2763
 
 
