@@ -48,6 +48,7 @@ Actualmente a la espera de la ceremonia de grados en el Tecnológico de Antioqui
 ## 📜 Formación Académica
 - **2019**: Bachiller, Colegio Panamericano Colombo-Sueco.
 - **2024**: Ingeniería de Software, Tecnológico de Antioquia (En espera de la ceremonia de grados).
+- **2025**: Prácticas en la empresa Bancolombia.
 
 
 ## 📝 Certificaciones
@@ -62,6 +63,11 @@ Actualmente a la espera de la ceremonia de grados en el Tecnológico de Antioqui
   - Certificación emitida en abril de 2024.
 
     📜[Certificado de Inglés](/Certificados/Smart%20A1.pdf)
+
+- **Prácticas en la empresa de Bancolombia**
+  -Certificación emitida el 21 de enero del 2025
+
+    📜[Certificado de Prácticas](/Certificados/Certificado%20Prácticas.pdf)
 
 
 ## 📬 Contáctame
