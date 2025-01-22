@@ -7,7 +7,7 @@
 </div>
 
 ## 📍 Medellín, Antioquia  
-🎓 **Software Engineering Student** and **Bancolombia Intern**
+🎓 **Software engineer pending degrees**
 Currently awaiting graduation ceremony at the Tecnológico de Antioquia.
 
 
