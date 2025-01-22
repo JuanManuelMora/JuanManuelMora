@@ -2,7 +2,7 @@
 
 # 👋 Hola, soy Juan Manuel Morales
 
-[English](/README_en.md)
+[English](/en/README_en.md)
 
 </div>
 
@@ -65,7 +65,7 @@ Actualmente a la espera de la ceremonia de grados en el Tecnológico de Antioqui
     📜[Certificado de Inglés](/Certificados/Smart%20A1.pdf)
 
 - **Prácticas en la empresa de Bancolombia**
-  -Certificación emitida el 21 de enero del 2025
+  - Certificación emitida el 21 de enero del 2025
 
     📜[Certificado de Prácticas](/Certificados/Certificado%20Prácticas.pdf)
 
