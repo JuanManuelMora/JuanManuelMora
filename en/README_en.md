@@ -47,27 +47,12 @@ Currently awaiting graduation ceremony at the Tecnológico de Antioquia.
 
 ## 📜 Academic Background
 - **2019**: Bachelor's degree, Colegio Panamericano Colombo-Sueco.
-- **2024**: Software Engineering, Tecnológico de Antioquia (Awaiting graduation ceremony).
+- **2025**: Software Engineering, Tecnológico de Antioquia.
 - **2025**: Internship at Bancolombia.
 
 
 ## 📝 Certifications
-- **Professional Java Course**:
-    - Issued by Código Facilito.
-    - Certification code:`d6d49c5e-19d9-43e6-8731-7972b7851844`.
-
-        📜[Java Certificate](/Certificados/Certificado%20-%20Curso%20Profesional%20de%20JAVA.pdf)
-
-- **Level A1 of English**:
-    - Smart Language Academy.
-    - Certification issued in April 2024.
-
-        📜[English Certificate](/Certificados/Smart%20A1.pdf)
-
-- **Internship at Bancolombia**:
-    - Certification issued on January 21, 2025
-
-        📜[Certificate of Internship](/Certificados/Certificado%20Prácticas.pdf)
+To see my certifications, contact me!!
 
 
 ## 📬 Contact me

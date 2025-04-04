@@ -47,27 +47,12 @@ Actualmente a la espera de la ceremonia de grados en el Tecnológico de Antioqui
 
 ## 📜 Formación Académica
 - **2019**: Bachiller, Colegio Panamericano Colombo-Sueco.
-- **2024**: Ingeniería de Software, Tecnológico de Antioquia (En espera de la ceremonia de grados).
+- **2025**: Ingeniería de Software, Tecnológico de Antioquia.
 - **2025**: Prácticas en la empresa Bancolombia.
 
 
 ## 📝 Certificaciones
-- **Curso Profesional de Java**:
-  - Emitido por Código Facilito.
-  - Código de certificación: `d6d49c5e-19d9-43e6-8731-7972b7851844`.
-
-    📜[Certificado de Java](/Certificados/Certificado%20-%20Curso%20Profesional%20de%20JAVA.pdf)
-
-- **Nivel A1 de Inglés**:
-  - Academia de Idiomas Smart.
-  - Certificación emitida en abril de 2024.
-
-    📜[Certificado de Inglés](/Certificados/Smart%20A1.pdf)
-
-- **Prácticas en la empresa de Bancolombia**
-  - Certificación emitida el 21 de enero del 2025
-
-    📜[Certificado de Prácticas](/Certificados/Certificado%20Prácticas.pdf)
+Para ver mis certificaciones, contáctame!!
 
 
 ## 📬 Contáctame
