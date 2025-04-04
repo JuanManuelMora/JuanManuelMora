@@ -47,8 +47,8 @@ Currently awaiting graduation ceremony at the Tecnológico de Antioquia.
 
 ## 📜 Academic Background
 - **2019**: Bachelor's degree, Colegio Panamericano Colombo-Sueco.
-- **2025**: Software Engineering, Tecnológico de Antioquia.
 - **2025**: Internship at Bancolombia.
+- **2025**: Software Engineering, Tecnológico de Antioquia.
 
 
 ## 📝 Certifications
