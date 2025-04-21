@@ -7,14 +7,12 @@
 </div>
 
 ## 📍 Medellín, Antioquia  
-🎓 **Ingeniero de software pendiente de grados** 
-Actualmente a la espera de la ceremonia de grados en el Tecnológico de Antioquia.
+🎓 **Ingeniero de software** 
 
 
 ## 🚀 Sobre mí
 - 📚 Apasionado por el desarrollo de software con enfoque en **Low Code** y **Bases de datos**.
-- 🔑 Aprendizaje en **Java** y en **Inglés A2** en Smart Language Academy.
-- 💻 Dominio de **Power Platform**, mayormente en **Power Apps** y **Power Automate**
+- 💻 Dominio de **Power Platform**, mayormente en **Power Apps** y **Power Automate**.
 - 🌟 Siempre buscando mejorar mis habilidades y expandir mi conocimiento.
 
 
@@ -25,6 +23,10 @@ Actualmente a la espera de la ceremonia de grados en el Tecnológico de Antioqui
   - Python
   - Español (Nativo)
   - Inglés (Nivel A2, elemental en progreso)
+  - Angular
+  - JavaScript
+  - HTML
+
 
 - **Conocimientos**: 
   - SQL

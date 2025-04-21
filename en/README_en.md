@@ -7,14 +7,12 @@
 </div>
 
 ## 📍 Medellín, Antioquia  
-🎓 **Software engineer pending degrees**
-Currently awaiting graduation ceremony at the Tecnológico de Antioquia.
+🎓 **Software engineer**
 
 
 ## 🚀 About me
 - 📚 Passionate about software development with a focus on **Low Code** and **Databases**.
-- 🔑 Learning in **Java** and **English A2** at Smart Language Academy.
-- 💻 Mastery of **Power Platform**, mostly in **Power Apps** and **Power Automate**
+- 💻 Mastery of **Power Platform**, mostly in **Power Apps** and **Power Automate**.
 - 🌟 Always looking to improve my skills and expand my knowledge.
 
 
@@ -25,6 +23,9 @@ Currently awaiting graduation ceremony at the Tecnológico de Antioquia.
     - Python
     - Spanish (Native)
     - English (Level A2, elementary in progress)
+    - Angular
+    - JavaScript
+    - HTML
 
 - **Knowledge**:
     - SQL
