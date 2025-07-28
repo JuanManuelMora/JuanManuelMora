@@ -59,17 +59,19 @@ To see my certifications, contact me!!
 ## 📬 Contact me
 Email: juanmanuelmorales668@gmail.com
 Phone: 300 231 2763
-[LinkedIn]https://www.linkedin.com/in/juan-manuel-morales-garcia/
+
+[LinkedIn](https://www.linkedin.com/in/juan-manuel-morales-garcia/)
 
 ## 🌐 Portfolio
 [juanmanuelmora.github.io/portafolio-cv](https://juanmanuelmora.github.io/portafolio-cv)
 
 ## 🌐 Portfolio Characteristics
 To see the features of the portfolio I invite you to visit the following repository:
-[JuanManuelMora/portfolio-cv]https://github.com/JuanManuelMora/portafolio-cv
+
+[JuanManuelMora/portfolio-cv](https://github.com/JuanManuelMora/portafolio-cv)
 
 ## 🖥 Repositories...
-[JuanManuelMora/repositories]https://github.com/JuanManuelMora?tab=repositories
+[JuanManuelMora/repositories](https://github.com/JuanManuelMora?tab=repositories)
 
 
 *Thanks for visiting my profile! I'm excited to collaborate on projects and continually learn in the field of software development.*
