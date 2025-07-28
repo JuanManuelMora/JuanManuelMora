@@ -66,7 +66,7 @@ Teléfono: 300 231 2763
 ## 🌐 Portafolio
 [juanmanuelmora.github.io/portafolio-cv](https://juanmanuelmora.github.io/portafolio-cv)
 
-## 🌐 Portfolio Characteristics
+## 🌐 Portafolio Características
 Para ver las carcateristicas del portafolio te invito a visitar el siguiente repositorio:
 
 [JuanManuelMora/portafolio-cv](https://github.com/JuanManuelMora/portafolio-cv)
