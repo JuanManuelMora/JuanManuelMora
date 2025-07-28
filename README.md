@@ -60,7 +60,6 @@ Para ver mis certificaciones, contáctame!!
 ## 📬 Contáctame
 Email: juanmanuelmorales668@gmail.com  
 Teléfono: 300 231 2763
-
 [LinkedIn](https://www.linkedin.com/in/juan-manuel-morales-garcia/)
 
 ## 🌐 Portafolio
